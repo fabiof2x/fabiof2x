@@ -21,5 +21,5 @@
 ##
 
 <div>
-  <a href="https://github.com/fabiof2x" target="_blank" rel="noopener noreferrer"><img align="center" alt="Most Used Languages" src="https://gh-readme-stats-blue.vercel.app/api/top-langs/?username=fabiof2x&layout=compact&langs_count=7&theme=dracula&hide=handlebars"></a>
+  <a href="https://github.com/fabiof2x" target="_blank" rel="noopener noreferrer"><img align="center" alt="Most Used Languages" src="https://gh-readme-stats-blue.vercel.app/api/top-langs/?username=fabiof2x&layout=compact&langs_count=7&theme=dracula"></a>
 </div>
