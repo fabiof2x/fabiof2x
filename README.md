@@ -21,5 +21,5 @@
 ##
 
 <div>
-  <a href="https://github.com/fabiof2x" target="_blank" rel="noopener noreferrer"><img align="center" alt="Most Used Languages" src="https://github-readme-stats-xi-gray.vercel.app/api/top-langs/?username=fabiof2x&layout=compact&langs_count=7&theme=dracula"></a>
+  <a href="https://github.com/fabiof2x" target="_blank" rel="noopener noreferrer"><img align="center" alt="Most Used Languages" src="https://github-readme-stats.f2x.dev/api/top-langs/?username=fabiof2x&layout=compact&langs_count=7&theme=dracula"></a>
 </div>
