@@ -15,7 +15,6 @@
   <a href="https://github.com/fabiof2x" target="_blank" rel="noopener noreferrer"><img align="center" alt="Javascript" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
   <a href="https://github.com/fabiof2x" target="_blank" rel="noopener noreferrer"><img align="center" alt="React" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
   <a href="https://github.com/fabiof2x" target="_blank" rel="noopener noreferrer"><img align="center" alt="Node.js" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
-  <a href="https://github.com/fabiof2x" target="_blank" rel="noopener noreferrer"><img align="center" alt="Flutter" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></a>
   <a href="https://github.com/fabiof2x" target="_blank" rel="noopener noreferrer"><img align="center" alt="C Sharp" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
 </div>
 
